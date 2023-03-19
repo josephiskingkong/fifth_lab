@@ -1,0 +1,15 @@
+/Users/pr1nc3/Projects/fifth_lab/fifth_lab/bin/Debug/net7.0/fifth_lab
+/Users/pr1nc3/Projects/fifth_lab/fifth_lab/bin/Debug/net7.0/fifth_lab.deps.json
+/Users/pr1nc3/Projects/fifth_lab/fifth_lab/bin/Debug/net7.0/fifth_lab.runtimeconfig.json
+/Users/pr1nc3/Projects/fifth_lab/fifth_lab/bin/Debug/net7.0/fifth_lab.dll
+/Users/pr1nc3/Projects/fifth_lab/fifth_lab/bin/Debug/net7.0/fifth_lab.pdb
+/Users/pr1nc3/Projects/fifth_lab/fifth_lab/obj/Debug/net7.0/fifth_lab.csproj.AssemblyReference.cache
+/Users/pr1nc3/Projects/fifth_lab/fifth_lab/obj/Debug/net7.0/fifth_lab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pr1nc3/Projects/fifth_lab/fifth_lab/obj/Debug/net7.0/fifth_lab.AssemblyInfoInputs.cache
+/Users/pr1nc3/Projects/fifth_lab/fifth_lab/obj/Debug/net7.0/fifth_lab.AssemblyInfo.cs
+/Users/pr1nc3/Projects/fifth_lab/fifth_lab/obj/Debug/net7.0/fifth_lab.csproj.CoreCompileInputs.cache
+/Users/pr1nc3/Projects/fifth_lab/fifth_lab/obj/Debug/net7.0/fifth_lab.dll
+/Users/pr1nc3/Projects/fifth_lab/fifth_lab/obj/Debug/net7.0/refint/fifth_lab.dll
+/Users/pr1nc3/Projects/fifth_lab/fifth_lab/obj/Debug/net7.0/fifth_lab.pdb
+/Users/pr1nc3/Projects/fifth_lab/fifth_lab/obj/Debug/net7.0/fifth_lab.genruntimeconfig.cache
+/Users/pr1nc3/Projects/fifth_lab/fifth_lab/obj/Debug/net7.0/ref/fifth_lab.dll
